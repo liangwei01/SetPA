@@ -6,7 +6,11 @@ Gene expression matrix
 
 #Dependencies
 The code is written in Python3. 
-The packages are needed for the calculation: Numpy, Pandas, Igraph, Scipy.
+The packages are needed for the calculation: 
+- Numpy 
+- Pandas
+- Igraph
+- Scipy
 
 #Basic Usage
 
