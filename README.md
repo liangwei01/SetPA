@@ -2,7 +2,7 @@
 Sample specific entropy and topological scores for biological pathways
 
 #Input File Format 
-Gene expression matrix
+Gene expression matrix: columns-gene;  rows-patients
 
 #Dependencies
 The code is written in Python3. 
